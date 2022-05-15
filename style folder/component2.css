@@ -1,0 +1,115 @@
+.nav{
+    width: 100%;
+    position: relative;
+    bottom: 44px;
+    margin-bottom: 5%;
+    background-image: url(../images/bg.png);
+    background-position: center;
+}
+.noxia{
+    margin-left: 300px;
+    font-family: 'poppins', sans-serif;
+    font-weight: bold;
+    font-size: 40px;
+    position: relative;
+    bottom: 15px;
+    letter-spacing: 5px;
+    color: white;
+    font-family: "glacial_indifferenceitalic";
+}
+.dot{
+    font-size: 70px;
+    color: red;
+}
+.home{
+    margin-left: 12.7%;
+    color: white;
+    font-family: 'mulibold';
+    position: relative;
+    bottom: 25px;
+    font-size: 16px;
+    letter-spacing: 0.6px;
+}
+.page{
+    margin-left: 32px;
+    position: relative;
+    font-family: 'mulibold';
+    bottom: 25px;
+    font-size: 16px;
+    color: red;
+    letter-spacing: 1.2px;
+
+}
+.profile{
+    margin-left: 28px;
+    position: relative;
+    color: white;
+    font-family: 'mulibold';
+    bottom: 25px;
+    font-size: 16px;
+    letter-spacing: 0.5px;
+
+
+}
+.short{
+    margin-left: 28px;
+    position: relative;
+    bottom: 25px;
+    font-size: 16px;
+    color: white;
+    font-family: 'mulibold';
+    letter-spacing: 0.4px;
+
+
+}
+.blog{
+    margin-left: 28px;
+    position: relative;
+    bottom: 25px;
+    font-size: 16px;
+    color: white;
+    font-family: 'mulibold';
+
+}
+.shop{
+    margin-left: 34px;
+    position: relative;
+    bottom: 23px;
+    font-size: 16px;
+    letter-spacing: 1.2px;
+    color: white;
+    font-family: 'mulibold';
+
+}
+.bag{
+    width: 21px;
+    height: 21px;
+    margin-left: 6.5%;
+    position: relative;
+    bottom: 16px;
+    display: inline-block;
+}
+.bag-img{
+    width: 21px;
+    height: 21px;
+}
+ .hint{
+    background-color: red;
+    color: white;
+    width: 12px;
+    height: 12px;
+    position: absolute;
+    right: -5px;
+    top: 1px;
+    font-size: 12px;
+    text-align: center;
+    border-radius: 50%;
+} 
+.search{
+    width: 22px;
+    height: 24px;
+    margin-left: 10px;
+    position: relative;
+    bottom: 13px;
+
+}

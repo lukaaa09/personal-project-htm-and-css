@@ -1,0 +1,104 @@
+
+.black-content{
+    width: 100%;
+    height: 275px;
+    background-color: #1B1B1B;
+    display: flex;
+    gap: 60px;
+}
+.content1{
+    margin-left: 18%;
+    margin-top: 80px;
+    display: flex;
+}
+
+.circle1{
+    width: 100px;
+    height: 100px;
+    background-color: #2D2C2C;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.icon{
+   
+    color: red;
+    font-size: 50px;
+}
+.content2{
+    margin-top: 80px;
+    display: flex;
+
+
+}
+.circle2{
+    width: 100px;
+    height: 100px;
+    background-color: #2D2C2C;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+.content3{
+    margin-top: 80px;
+    display: flex;
+
+}
+.circle3{
+    width: 100px;
+    height: 100px;
+    background-color: #2D2C2C;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+.k{
+    margin-left: 25px;
+    margin-top: 5px;
+    color: white;
+    font-size: 57px;
+}
+.task{
+    margin-left: 30px;
+    margin-top: -5px;
+    width: 170px;
+    font-size: 17px;
+    color: gray;
+    letter-spacing: 1.3px;
+    font-family: 'muliregular';
+}
+.kk{
+    margin-left: 25px;
+    margin-top: 5px;
+    color: white;
+    font-size: 57px;
+}
+.sale{
+    margin-left: 30px;
+    margin-top: -5px;
+    font-size: 18px;
+    letter-spacing: 1.3px;
+    width: 170px;
+    color: gray;
+    font-family: 'muliregular';
+}
+.number{
+    margin-left: 25px;
+    margin-top: 5px;
+    color: white;
+    font-size: 57px;
+}
+.king{
+    margin-left: 30px;
+    margin-top: -5px;
+    font-size: 18px;
+    letter-spacing: 1.3px;
+    width: 170px;
+    color: gray;
+    font-family: 'muliregular';
+}

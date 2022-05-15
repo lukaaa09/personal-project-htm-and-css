@@ -1,0 +1,49 @@
+.text{
+    margin-left: 210px;
+    width: 700px;
+    margin-bottom: 20.7%;
+    display: flex;
+    gap: 1px;
+}
+.p1{
+    width: 700px;
+    font-size: 70px;
+    line-height: 75px;
+    letter-spacing: -0.5px;
+    margin-bottom: 3.5%;
+    margin-top: 80px;
+    font-family: 'glacial_indifferencebold';
+    color: white;
+    margin-left: 90px;
+}
+.inside{
+    text-indent: 20px;
+}
+.p2{
+    font-size: 17px;
+    width: 475px;
+    letter-spacing: 0.2px;
+    margin-bottom: 6.3%;
+    margin-left: 90px;
+    color: white;
+    font-family: "muliregular";
+}
+.btn1{
+    background-color: #EE3364;
+    color: white;
+    border: none;
+    width: 160px;
+    height: 50px;
+    padding-bottom: 8px;
+    padding-left: 8px;
+    letter-spacing: 0.8px;
+    margin-left: 86px;
+    font-family: "muliregular";
+    font-size: 11px;
+}
+.room{
+    position: relative;
+    right: 80px;
+    bottom: 60px;
+    width: 600px;
+}

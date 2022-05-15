@@ -1,0 +1,160 @@
+.cube{
+    width: 100%;
+    height: 510px;
+    background-color: #EDF7FF;
+    display: flex;
+    gap: 65px;
+
+}
+
+.h1{
+    margin-top: 5px;
+    width: 415px;
+    font-size: 32px;
+    margin-bottom: 30px;
+    margin-left: 153px;
+    font-family: 'glacial_indifferencebold';  
+    letter-spacing: -1px;  
+    line-height: 37px;
+}
+.txt{
+    width: 500px;
+    font-size: 15px;
+    margin-left: 155px;
+    margin-bottom: 20px;
+    font-family: 'muliregular';
+    line-height: -1px;
+    letter-spacing: -0.6px;
+}
+.half1{
+    margin-top: 5.5%;
+    margin-left: 9%;
+}
+.cell{
+    width: 105px;
+    height: 80px;
+    margin-left: 5px;
+    background-color: rgb(64, 64, 118);
+    display: inline-block;
+    margin-left: 150px;
+
+}
+.person{
+    margin-left: 43%;
+    position: relative;
+    bottom: 15.5%;
+    font-size: 17px;
+    letter-spacing: 0.5px;
+
+}
+.ceo{
+    margin-left: 43%;
+    position: relative;
+    bottom: 14%;
+    color: gray;
+    font-size: 14px;
+
+}
+.half2{
+    margin-right: 11%;
+    margin-top: 5.5%;
+}
+.h2{
+    width: 415px;
+    margin-bottom: 5%;
+    font-family: 'glacial_indifferencebold';  
+
+}
+.progress1{
+    background-color: #EE3364;
+    width: 500px;
+    height: 10px;
+    position: relative;
+    overflow: hidden;
+    margin-bottom: 40px;
+    margin-top: 11px;
+
+}
+.progress1::after{
+    content: '';
+    width: 400px;
+    height: 10px;
+    background-color: #FFFFFF;
+    position: absolute;
+    left: 74%;
+}
+.progress2{
+    background-color: #EE3364;
+    width: 500px;
+    height: 10px;
+    position: relative;
+    overflow: hidden;
+    margin-bottom: 40px;
+
+}
+.progress2::after{
+    content: '';
+    width: 280px;
+    height: 10px;
+    background-color: #FFFFFF;
+    position: absolute;
+    left: 83%;
+}
+.progress3{
+    background-color: #EE3364;
+    width: 500px;
+    height: 10px;
+    position: relative;
+    overflow: hidden;
+    position: relative;
+    bottom: 10px;
+}
+.progress3::after{
+    content: '';
+    width: 280px;
+    height: 10px;
+    background-color: #FFFFFF;
+    position: absolute;
+    left: 58%;
+}
+.back{
+    font-size: 16px;
+    font-family: 'glacial_indifferenceregular';
+    margin-left: 3px;
+    margin-top: 7px;
+
+
+}
+.back1{
+    font-size: 16px;
+    font-family: 'glacial_indifferenceregular';
+    margin-left: 3px;
+    position: relative;
+    bottom: 13px;
+
+}
+.back2{
+    font-size: 16px;
+    font-family: 'glacial_indifferenceregular';
+    margin-left: 3px;
+    position: relative;
+    bottom: 22px;
+}
+.percent{
+    margin-left: 55%;
+    position: relative;
+    left: 28px;
+}
+.percent1{
+    margin-left: 55%;
+    position: relative;
+    left: 32px;
+    bottom: 12px;
+}
+
+.percent2{
+    margin-left: 55%;
+    position: relative;
+    left: 30px;
+    bottom: 20px;
+}
