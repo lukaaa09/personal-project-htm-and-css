@@ -1,0 +1,202 @@
+.news{
+    margin-left: 46%;
+    letter-spacing: 1px;
+    font-family: 'glacial_indifferencebold';
+    color: #EE3364;
+    font-size: 13px;  
+}
+.pack{
+    font-family: 'glacial_indifferencebold';
+    font-size: 55px;
+    margin-left: 35.3%;
+    word-spacing: 4px;
+    margin-bottom: 40px;
+
+}
+.frame1{
+    width: 330px;
+    height: 490px;
+    border: 2px solid gray;
+    display: inline-block;
+    margin-left: 17.5%;
+}
+.head-plan{
+    font-family: 'glacial_indifferencebold';
+    font-size: 30px;
+    padding-left: 100px;
+    padding-top: 60px;
+    letter-spacing: -0.7px;
+
+}
+.month{
+    font-family: 'glacial_indifferencebold';
+    font-size: 14px;
+    padding-left: 130px;
+    padding-top: 10px;
+
+}
+.and{
+    padding-left: 70px;
+    padding-top: 20px;
+    font-size: 35px;
+
+}
+.sum{
+    padding-left: 14px;
+    font-size: 70px;
+}
+.space{
+    padding-left: 93px;
+    padding-top: 49px;
+    color: #c6bdbd;
+}
+.gb{
+    color: #8a8888;
+}
+.band{
+    padding-left: 110px;
+    color: #c6bdbd;
+    padding-top: 7px;
+    
+}
+.diamonds{
+    padding-left: 93px;
+    padding-top: 7px;
+    color: #c6bdbd;
+}
+.stand{
+    font-family: 'glacial_indifferencebold';
+    font-size: 28px;
+    padding-left: 60px;
+    padding-top: 60px;
+}
+.month1{
+    font-family: 'glacial_indifferencebold';
+    font-size: 14px;
+    padding-left: 130px;
+    padding-top: 10px;
+}
+
+.btn5{
+    width: 160px;
+    height: 50px;
+    background-color: #1E1E1E;  
+    font-family: 'muliregular';
+    border: none;
+    color: white;
+    margin-left: 80px;
+    margin-top: 30px;
+
+}
+.frame2{
+    width: 330px;
+    height: 490px;
+    border: 2px solid gray;  
+    display: inline-block;
+    margin-left: 30px;
+
+}
+.frame3{
+    width: 330px;
+    height: 490px;
+    border: 2px solid gray;
+    display: inline-block;
+    margin-left: 30px;
+
+}
+.frame1:hover{
+    background-color: #EE3364;
+    border: none;
+}
+.frame1:hover .head-plan{
+    color: white;
+}
+.frame1:hover .month{
+    color: white;
+}
+.frame1:hover .and{
+    color: white;
+}
+.frame1:hover .sum{
+    color: white;
+}
+.frame1:hover .space{
+    color: white;
+}
+.frame1:hover .diamonds{
+    color: white;
+}
+.frame1:hover .band{
+    color: white;
+}
+.frame1:hover .gb{
+    color: white;
+}
+.frame1:hover .btn5{
+    border: 2px solid white;
+    background-color: #EE3364;
+}
+.frame2:hover{
+    background-color: #EE3364;
+    border: none;
+}
+.frame2:hover .stand{
+    color: white;
+}
+.frame2:hover .month1{
+    color: white;
+}
+.frame2:hover .and{
+    color: white;
+}
+.frame2:hover .sum{
+    color: white;
+}
+.frame2:hover .space{
+    color: white;
+}
+.frame2:hover .diamonds{
+    color: white;
+}
+.frame2:hover .band{
+    color: white;
+}
+.frame2:hover .gb{
+    color: white;
+}
+.frame2:hover .btn5{
+    border: 2px solid white;
+    background-color: #EE3364;
+}
+.frame3:hover{
+    background-color: #EE3364;
+    border: none;
+}
+.frame3:hover .head-plan{
+    color: white;
+}
+.frame3:hover .month{
+    color: white;
+}
+.frame3:hover .and{
+    color: white;
+}
+.frame3:hover .sum{
+    color: white;
+}
+.frame3:hover .space{
+    color: white;
+}
+.frame3:hover .diamonds{
+    color: white;
+}
+.frame3:hover .band{
+    color: white;
+}
+.frame3:hover .gb{
+    color: white;
+}
+.frame3:hover .btn5{
+    border: 2px solid white;
+    background-color: #EE3364;
+}
