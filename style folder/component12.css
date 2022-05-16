@@ -1,0 +1,85 @@
+.cosmos{
+    width: 1680px;
+    height: 710px;
+    background-color: #F2F2F2;
+}
+.heder-text{
+    margin-left: 39.5%;
+    margin-top: 167px;
+}
+.cos-txt{
+    font-family: 'glacial_indifferencebold';
+    width: 700px;
+    font-size: 40px;
+    word-spacing: -0.5px;
+    letter-spacing: -1.5px;
+    line-height: 47px;
+    margin-bottom: 25px;
+
+}
+.cos-txt span{
+    font-size: 40px;
+    color: #EE3364;
+}
+.paragraph{
+    font-family: 'muliregular';
+    font-size: 16px;
+    width: 630px;
+}
+.rock{
+    margin-left: 10px;
+    position: relative;
+    bottom: 490px;
+
+}
+.man{
+    position: relative;
+    bottom: 380px;
+    margin-left: 18px;
+    width: 500px;
+    height: 400px;
+}
+form .services{
+    margin-left: 39.5%;
+    display: flex;
+    flex-wrap: wrap;
+    width: 700px;
+    margin-top: 40px;
+}
+.choose{
+    width: 320px;
+    height: 50px;
+    padding-left: 20px;
+    background-color: #CACACA;
+    letter-spacing: -0.7px;
+}
+.name{
+    margin-left: 15px;
+    width: 320px;
+    height: 50px;
+    border: 1px solid #EE3364;
+    padding-left: 27px;
+    padding-bottom: 7px;
+}
+.phone-number{
+    margin-top: 17px;
+    border: none;
+    width: 320px;
+    height: 50px;
+    padding-left: 20px;
+    background-color: #CACACA;
+}
+.submit{
+    margin-top: 17px;
+    margin-left: 13px;
+    width: 320px;
+    height: 50px;
+    border: none;
+    background-color:  #EE3364;
+    padding-right: 3px;
+    color: white;
+}
+.rocks{
+    margin-left: 1010px;
+    margin-top: 380px;
+}
