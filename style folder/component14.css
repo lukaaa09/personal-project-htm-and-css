@@ -1,0 +1,66 @@
+.black-footer{
+    margin-top: 100px;
+    height: 480px;
+    background-color: #282828;
+}
+.last-h1{
+    padding-top: 99px;
+    margin-left: 43.8%;
+    font-family: "poppins";
+    font-weight: bold;
+    color: white;
+    font-size: 50px;
+}
+.do1{
+    font-size: 33px;
+    color: red;
+}
+.footer-text{
+    margin-top: 18px;
+    font-family: 'muliregular';
+    font-size: 16px;
+    margin-left: 31%;
+    width: 650px;
+    color: #A5A5A5;
+    text-align: center;
+}
+.social-media-icons{
+    color: #EE3364;
+    margin-left: 43.2%;
+    margin-top: 70px;
+}
+.fa-twitter{
+    margin-left: 11px;
+}
+.fa-glide-g{
+    margin-left: 17px;
+}
+.fa-reddit-alien{
+    margin-left: 17px;
+
+}
+.fa-pinterest{
+    margin-left: 17px;
+
+}
+.fa-instagram{
+    margin-left: 17px;
+
+}
+.dark-footer{
+    margin-top: 70px;
+    width: 100%;
+    height: 80px;
+    background-color: #171717;
+}
+.dark-footer p{
+    font-family: 'muliregular';
+    font-size: 14px;
+    color: #A0A8B7;
+    margin-left: 35.4%;
+    padding-top: 10px;
+    letter-spacing: -0.5px;
+}
+.dark-footer p span{
+    color: white;
+}
