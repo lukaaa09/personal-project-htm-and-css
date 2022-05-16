@@ -8,13 +8,13 @@
 }
 .noxia{
     margin-left: 300px;
-    font-family: 'poppins', sans-serif;
     font-size: 40px;
     position: relative;
     bottom: 15px;
     letter-spacing: 5px;
     color: white;
-    font-family: "glacial_indifferenceitalic";
+    font-family: 'glacial_indifferenceregular';
+
 }
 .dot{
     font-size: 70px;

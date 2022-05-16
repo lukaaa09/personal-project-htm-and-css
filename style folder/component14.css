@@ -16,7 +16,7 @@
     color: red;
 }
 .footer-text{
-    margin-top: 18px;
+    margin-top: 14px;
     font-family: 'muliregular';
     font-size: 16px;
     margin-left: 31%;
@@ -57,8 +57,8 @@
     font-family: 'muliregular';
     font-size: 14px;
     color: #A0A8B7;
-    margin-left: 35.4%;
-    padding-top: 10px;
+    margin-left: 34.2%;
+    padding-top: 5px;
     letter-spacing: -0.5px;
 }
 .dark-footer p span{

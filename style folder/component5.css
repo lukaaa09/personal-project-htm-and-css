@@ -26,6 +26,9 @@
     line-height: -1px;
     letter-spacing: -0.6px;
 }
+.txt span{
+    text-decoration: underline dashed;
+}
 .half1{
     margin-top: 5.5%;
     margin-left: 9%;
