@@ -1,0 +1,142 @@
+.hov-grid{
+    display: grid;
+    grid-template-columns: 336px 336px 336px 336px 336px;
+}
+.cube-1{
+    background-color: #BBBBBB;
+    height: 510px;
+    margin-top: 120px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.cube-2{
+    background-color: #D0D0D0;
+    height: 510px;
+    margin-top: 120px;
+}
+.cube-3{
+    background-color: #BBBBBB;
+    height: 510px;
+    margin-top: 120px;
+}
+.cube-4{
+    background-color: #D0D0D0;
+    height: 510px;
+    margin-top: 120px;
+}
+.cube-5{
+    background-color: #BBBBBB;
+    height: 510px;
+    margin-top: 120px;
+}
+.cube-content{
+    display: none;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.cube-content h3{
+    color: white;
+    width: 300px;
+    margin-left: 160px;
+    font-size: 22px;
+    font-family: 'mulibold';    
+}
+.cube-content h5{
+    width: 200px;
+    margin-left: 100px;
+    margin-top: 15px;
+    color: white;
+    font-family: 'mulibold';
+    font-size: 14px;
+}
+.facebook{
+    margin-right: 65px;
+    margin-top: 33px;
+}
+.twit{
+    margin-left: 27px;
+    position: relative;
+    bottom: 22px;
+}
+.cube-1:hover .cube-content{
+    display: flex;
+}
+.cube-1:hover{
+    display: flex;
+    background-color: #EE3364;
+    border: 9px solid black;
+}
+.lora{
+    color: white;
+    width: 300px;
+    position: relative;
+    right: 60px;
+    font-size: 22px;
+    font-family: 'mulibold';  
+}
+.ux{
+    width: 200px;
+    position: relative;
+    right: 60px;
+    color: white;
+    font-family: 'mulibold';
+    font-size: 14px;
+}
+.fb-jpg{
+    position: relative;
+    right: 60px;
+}
+.twit-jpg{
+    position: relative;
+    right: 60px;
+}
+.salima{
+    position: relative;
+    right: 60px;
+}
+.ui{
+    position: relative;
+    right: 60px;
+}
+.fbs{
+    position: relative;
+    right: 60px;
+}
+.twit-t{
+    position: relative;
+    right: 60px
+}
+.cube-2:hover .cube-content{
+    display: flex;
+}
+.cube-2:hover{
+    display: flex;
+    background-color: #EE3364;
+    border: 9px solid black;
+}
+.cube-3:hover .cube-content{
+    display: flex;
+}
+.cube-3:hover{
+    display: flex;
+    background-color: #EE3364;
+    border: 9px solid black;
+}
+.cube-4:hover .cube-content{
+    display: flex;
+}
+.cube-4:hover{
+    display: flex;
+    background-color: #EE3364;
+    border: 9px solid black;
+}
+.cube-5:hover .cube-content{
+    display: flex;
+}
+.cube-5:hover{
+    display: flex;
+    background-color: #EE3364;
+    border: 9px solid black;
+}

@@ -9,13 +9,12 @@
 .noxia{
     margin-left: 300px;
     font-family: 'poppins', sans-serif;
-    font-weight: bold;
+    font-weight: bolder;
     font-size: 40px;
     position: relative;
     bottom: 15px;
     letter-spacing: 5px;
     color: white;
-    font-family: "glacial_indifferenceitalic";
 }
 .dot{
     font-size: 70px;
