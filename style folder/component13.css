@@ -1,0 +1,72 @@
+.some-icons{
+    width: 100%;
+    margin-top: 30px;
+}
+.layer1{
+    margin-bottom: 20px;
+    margin-left: 39%;
+
+}
+.ellipse{
+    width: 100px;
+    height: 100px;
+    margin-left: 44px;
+    margin-top: 20px;
+}
+.layer2{
+    margin-left: 50px;
+    margin-bottom: 20px;
+}
+.icon-text{
+    margin-left: 46%;
+    margin-top: 8px;
+}
+.leo{
+    font-family: 'glacial_indifferencebold';
+    font-size: 23px;
+    color: #303030;
+}
+.tech{
+    font-family: 'muliregular';
+    font-size: 12px;
+    margin-top: 2px;
+    margin-left: 5px;
+    color: #C4C4C4;
+}
+.icon-p{
+    margin-top: 17px;
+    line-height: 23px;
+    width: 720px;
+    margin-left: 29%;
+    font-family: 'mulibolditalic';
+    font-size: 15px;
+    color: #8D8D8D;
+    text-align: center;
+}
+.dots{
+    margin-left: 48.2%;
+    margin-top: 18px;
+    padding-left: 7px;
+}
+.xd-icons{
+    margin-left: 20%;
+    margin-top: 110px;
+}
+.logo{
+    margin-left: 115px;
+    margin-bottom: 15px;
+    width: 100px;
+    height: 60px;
+}
+.dash{
+    margin-left: 115px;   
+}
+.crab{
+    margin-left: 80px;
+    width: 120px;
+    height: 80px;
+}
+.velit{
+    margin-left: 100px;
+    margin-bottom: 10px;
+}
